@@ -19,28 +19,23 @@ I enjoy building software that connects reliable backend services with useful ap
 
 ### **Sprintwise — AI Jira Sprint Planner** [🔗](https://github.com/snehilbehar/Sprintwise)
 
-* Built a Next.js, TypeScript, and FastAPI application that turns Confluence requirements and Jira delivery history into proposed sprint stories.
-* Combined OpenAI-generated requirements and embeddings with deterministic Python estimates and capacity-aware assignments, with human review before ticket creation.
+A Next.js, TypeScript, and FastAPI application that turns Confluence requirements and Jira delivery history into proposed sprint stories. Combined OpenAI-generated requirements and embeddings with deterministic Python estimates and capacity-aware assignments, with human review before ticket creation.
 
 ### **Matchday — Soccer2Cricket** [🔗](https://github.com/snehilbehar/Soccer2Cricket)
 
-* Built a sports analytics application that finds football matches with a similar statistical story to a cricket match using Cricsheet and StatsBomb data.
-* Used Python, FastAPI, SQLite, and JavaScript for match search and explainable comparisons based on result closeness, individual contribution, and late attacking activity.
+A sports analytics application that finds football matches with a similar statistical story to a cricket match using Cricsheet and StatsBomb data. Used Python, FastAPI, SQLite, and JavaScript for match search and explainable comparisons based on result closeness, individual contribution, and late attacking activity.
 
 ### **Job Mail Manager — Gmail Classifier** [🔗](https://github.com/snehilbehar/Job-Mail-Manager)
 
-* Built a Python daemon that processes Gmail notifications through Google Cloud Pub/Sub and organizes job-related emails into application, interview, recruiter, and other labels.
-* Combined subject rules with local LLM inference through LM Studio, using SQLite for durable work queues, Pydantic validation, and retries for provider failures.
+A Python daemon that processes Gmail notifications through Google Cloud Pub/Sub and organizes job-related emails into application, interview, recruiter, and other labels. Combined subject rules with local LLM inference through LM Studio, using SQLite for durable work queues, Pydantic validation, and retries for provider failures.
 
 ### **ParkHelp — Smart Parking System** [🔗](https://github.com/snehilbehar/ParkHelp)
 
-* Connected Raspberry Pi cameras and distance sensors, AWS Lambda predictions, and two iOS applications over MQTT to monitor parking availability.
-* Added a verification flow that flags disagreements between sensor readings and image predictions for review in the controller app.
+Connected Raspberry Pi cameras and distance sensors, AWS Lambda predictions, and two iOS applications over MQTT to monitor parking availability. Added a verification flow that flags disagreements between sensor readings and image predictions for review in the controller app.
 
 ### **RecipeRecommender — Collaborative Full-Stack Project** [🔗](https://github.com/snehilbehar/RecipeRecommender)
 
-* Collaborated on a React, Node.js, Express, and MongoDB application for discovering recipes by ingredients and cuisine, with recipe creation and personal bookmarks.
-* The project integrates Auth0 sign-in, an OpenAI-powered recipe assistant, and API testing with Jest, Chai, and Supertest.
+Collaborated on a React, Node.js, Express, and MongoDB application for discovering recipes by ingredients and cuisine, with recipe creation and personal bookmarks. The project integrates Auth0 sign-in, an OpenAI-powered recipe assistant, and API testing with Jest, Chai, and Supertest.
 
 ---
 
@@ -97,7 +92,7 @@ Master of Computer Science | August 2024 – May 2026
 
 **R.V. College of Engineering**
 
-Bachelor of Engineering | August 2017 – July 2021
+Bachelor of Engineering in Electronics and Instrumentation | August 2017 – July 2021
 
 ---
 
@@ -109,4 +104,4 @@ Bachelor of Engineering | August 2017 – July 2021
 
 ---
 
-⭐ *Open to **Software Engineering** opportunities where I can build reliable backend systems, solve performance challenges, and develop useful automation.*
+⭐ *Open to **Software Engineering** opportunities where I can build reliable software systems, solve performance challenges, and develop useful automation.*
