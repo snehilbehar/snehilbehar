@@ -1,4 +1,4 @@
-# Hi, I'm Snehil 👋
+# Hi, I'm Snehil
 
 I'm a **Software Engineer with 3+ years of experience at Cisco** and a background in **Computer Science at NC State University**. My work centers on **scalable backend systems, object-oriented design, and practical automation**, with C/C++ and Python as my core languages.
 
@@ -6,7 +6,7 @@ I enjoy building software that connects reliable backend services with useful ap
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 * **Backend Engineering & Distributed Systems**
 * **AI-Assisted Applications & Workflow Automation**
@@ -15,7 +15,7 @@ I enjoy building software that connects reliable backend services with useful ap
 
 ---
 
-## 🧪 Featured Projects
+## Featured Projects
 
 ### **Sprintwise — AI Jira Sprint Planner** [🔗](https://github.com/snehilbehar/Sprintwise)
 
@@ -39,7 +39,7 @@ Collaborated on a React, Node.js, Express, and MongoDB application for discoveri
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 **Programming:**
 
@@ -67,7 +67,7 @@ Linux, Git, Docker, CI/CD, Test-Driven Development, Unit Testing, pytest, Jest
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Cisco — Software Engineer**
 
@@ -84,7 +84,7 @@ February 2021 – July 2021
 
 ---
 
-## 🎓 Education
+## Education
 
 **North Carolina State University**
 
@@ -96,7 +96,7 @@ Bachelor of Engineering in Electronics and Instrumentation | August 2017 – Jul
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 * **LinkedIn:** [snehilbehar](https://www.linkedin.com/in/snehilbehar)
 * **GitHub:** [snehilbehar](https://github.com/snehilbehar)
